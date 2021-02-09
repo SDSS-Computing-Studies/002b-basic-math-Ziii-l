@@ -1,4 +1,5 @@
 x = 5
 y = 2
-answer = x ^ y
+import math
+answer = math.pow(x,y)
 print(answer)
